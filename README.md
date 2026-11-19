@@ -32,7 +32,7 @@ I build full-stack web apps with the Next.js App Router, and I care about the de
 
 ## 🚀 Featured Projects
 
-### [Andromeda](https://github.com/parsa-farahani/andromeda-social-app) · [Live demo](https://andromeda-social-app-vercel-tau.vercel.app/)
+### [Andromeda](https://github.com/parsa-farahani/andromeda-social-app-vercel) · [Live demo](https://andromeda-social-app-vercel-tau.vercel.app/)
 Full-stack social platform built with **Next.js (App Router), TypeScript and MongoDB**.
 
 - Posts, nested comment threads, likes, and search by title and `#tags`
